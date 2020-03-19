@@ -51,13 +51,15 @@ class MainActivity : AppCompatActivity() {
         )
         partList.add(
             fk_data("RIZKY FERDIANSYAH", "NAMA\t\t\t\t\t\t\t: RIZKY FERDIANSYAH\n\n" +
-                    "TTL\t\t\t\t\t\t\t\t: SURABAYA, 8 APRIL 1998\n\n" +
+                    "TTL\t\t\t\t\t\t\t\t\t: SURABAYA, 8 APRIL 1998\n\n" +
                     "ALAMAT\t\t\t\t\t\t: DUPAK JAYA GG 5 NO 16\n\n" +
                     "NO.HP\t\t\t\t\t\t\t: 082141336644\n\n" +
-                    "EMAIL\t\t\t\t\t\t\t: rizkyferdiansyah98@gmail.com\t\n\n" +
-                    "URL PROFIL GITHUB\t: https://github.com/rizfer \n\n" +
+                    "EMAIL\t\t\t\t\t\t\t:\n\n"+
+                    "\t\t\t  rizkyferdiansyah98@gmail.com\t\n\n" +
+                    "URL PROFIL GITHUB\t:\n\n"+
+                    "\t\t\t  https://github.com/rizfer \n\n" +
                     "RIWAYAT PENDIDIKAN\t:\n\n"+
-                    "\t\t\t  1. SD AL-KAUTSAR\n" +
+                    "\t\t\t   1. SD AL-KAUTSAR\n" +
                     "\t\t\t   2. SMPN 14 SURABAYA\n" +
                     "\t\t\t   3. SMAN 11 SURABAYA\n\n" +
                     "PENGHARGAAN\t\t\t\t:  - \n", R.drawable.foto)
